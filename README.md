@@ -3,13 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Rodrigo, a full-stack developer 👨‍💻 and a mechatronics engineer 🚀
+### <div align="center">I'm Rodrigo, developer 👨‍💻 and a mechatronics engineer 🚀
 </div>  
-  
 
-- 🌱 I am currently taking the full stack developer javascript bootcamp on Kodemia.  
   
-
 - ⚡ Fun fact: I love audio, music and football.   
   
 
